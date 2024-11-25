@@ -1,4 +1,4 @@
-# Diffusion-Noise-Feature-Accurate-and-Fast-Generated-Image-Detection
+# Diffusion Noise Feature: Accurate and Fast Generated Image Detection
 
 [Yichi Zhang](https://yichics.github.io/) and [Xiaogang Xu](https://xiaogang00.github.io/)
 
