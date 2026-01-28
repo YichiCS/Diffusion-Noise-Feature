@@ -48,16 +48,10 @@ Please refer to `./options` for variables that determine the program’s executi
 ### Citation 
 
 ```
-@inbook{zhang2025diffusion,
+@article{zhang2025diffusion,
   title = {Diffusion Noise Feature: Accurate and Fast Generated Image Detection},
-  ISBN = {9781643686318},
-  ISSN = {1879-8314},
-  url = {http://dx.doi.org/10.3233/FAIA250925},
-  DOI = {10.3233/faia250925},
-  booktitle = {ECAI 2025},
-  publisher = {IOS Press},
-  author = {Zhang,  Yichi and Xu,  Xiaogang},
+  author = {Zhang, Yichi and Xu, Xiaogang},
+  journal = {ECAI 2025},
   year = {2025},
-  month = oct 
 }
 ```
